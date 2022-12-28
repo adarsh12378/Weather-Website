@@ -13,7 +13,7 @@ and u can contribute in this project.
 
 
                                 PROJECT ADMIN
-![ADARSH HU](https://user-images.githubusercontent.com/114686600/209765681-e59639e6-7fdd-4aab-81fd-04ada2551aa0.jpeg)
+
 
 
 
