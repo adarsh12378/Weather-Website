@@ -35,7 +35,7 @@ B TECH STUDENT SGSITS INDORE
 
 
        LINKEDIN
-![LINK (2)](https://user-images.githubusercontent.com/114686600/209767624-7e55384f-5c4f-4c1a-ab2d-9a761232db26.png)
+![LINK (1) (1)](https://user-images.githubusercontent.com/114686600/209768109-77649115-bb44-41e1-b8c3-62386a70dc04.png)
 https://www.linkedin.com/in/adarsh-gupta-583975224/
 
 
