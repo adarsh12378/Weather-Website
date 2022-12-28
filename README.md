@@ -3,4 +3,17 @@ this is a weather app created by using html ,css ,javascript,api .It Provides u 
 using the api by weather ninjas api.
 taking the reference from code with harry while making this project.
 now u can put urr issues that how we can  make it more better.
-and u can contribute in this project.![Screenshot (3)](https://user-images.githubusercontent.com/114686600/209763538-43e8e2d4-b7c4-47b7-a5ea-abcdffb91516.png)
+and u can contribute in this project.
+
+                              PROJECT ADMIN
+![linkedin](https://user-images.githubusercontent.com/114686600/209764320-bcf6bd06-07d3-4b02-a9f8-b9d9054930d9.jpeg)
+
+
+
+
+
+
+
+
+
+![Screenshot (3)](https://user-images.githubusercontent.com/114686600/209763538-43e8e2d4-b7c4-47b7-a5ea-abcdffb91516.png)
