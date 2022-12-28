@@ -31,14 +31,14 @@ and u can contribute in this project.
 
 
 
-       INSTAGRAM
-![INSTA (1)](https://user-images.githubusercontent.com/114686600/209766754-450ba21b-d535-4956-8b45-8259e53af3da.jpeg)
+       LINKEDIN
+![LINK (1)](https://user-images.githubusercontent.com/114686600/209767018-3b3093e2-23d0-4434-acfc-b57557e2b202.png)
 https://www.linkedin.com/in/adarsh-gupta-583975224/
 
 
 
-       LINKEDIN
-![INSTA](https://user-images.githubusercontent.com/114686600/209764636-144fe5ba-89a5-40a4-815d-fb67b12cfd15.jpeg)
+       INSTAGRAM
+![INSTA (1)](https://user-images.githubusercontent.com/114686600/209766754-450ba21b-d535-4956-8b45-8259e53af3da.jpeg)
 https://www.instagram.com/ashvin_adarsh_gupta/
 
 
