@@ -32,7 +32,7 @@ and u can contribute in this project.
 
 
        INSTAGRAM
-![LINK](https://user-images.githubusercontent.com/114686600/209764838-596df534-afc4-424d-a9a5-c838f3ab6434.png)
+![INSTA (1)](https://user-images.githubusercontent.com/114686600/209766754-450ba21b-d535-4956-8b45-8259e53af3da.jpeg)
 https://www.linkedin.com/in/adarsh-gupta-583975224/
 
 
