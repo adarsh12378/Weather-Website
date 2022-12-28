@@ -1,3 +1,4 @@
+
 # Weather-Website
 
                              PROJECT INFORMATION 
@@ -13,7 +14,7 @@ and u can contribute in this project.
 
 
                                 PROJECT ADMIN
-
+![ADARSH HU (2)](https://user-images.githubusercontent.com/114686600/209766314-fafd8d0c-4347-4cef-b18d-b49cd6e3ddbc.jpeg)
 
 
 
