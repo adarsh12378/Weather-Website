@@ -30,13 +30,13 @@ and u can contribute in this project.
 
 
 
-
+       INSTAGRAM
 ![LINK](https://user-images.githubusercontent.com/114686600/209764838-596df534-afc4-424d-a9a5-c838f3ab6434.png)
 https://www.linkedin.com/in/adarsh-gupta-583975224/
 
 
 
-
+       LINKEDIN
 ![INSTA](https://user-images.githubusercontent.com/114686600/209764636-144fe5ba-89a5-40a4-815d-fb67b12cfd15.jpeg)
 https://www.instagram.com/ashvin_adarsh_gupta/
 
