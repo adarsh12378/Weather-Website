@@ -32,7 +32,7 @@ and u can contribute in this project.
 
 
        LINKEDIN
-![LINK (1)](https://user-images.githubusercontent.com/114686600/209767018-3b3093e2-23d0-4434-acfc-b57557e2b202.png)
+![LINK (1) (1)](https://user-images.githubusercontent.com/114686600/209767181-a5739fb3-9d37-43d7-8bc1-105cb653f860.png)
 https://www.linkedin.com/in/adarsh-gupta-583975224/
 
 
