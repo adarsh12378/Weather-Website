@@ -9,8 +9,12 @@ and u can contribute in this project.
 
 
 
-                              PROJECT ADMIN
-             ![linkedin](https://user-images.githubusercontent.com/114686600/209765273-460e256f-8483-4264-923c-26d0795877a4.jpeg)
+
+
+
+                                PROJECT ADMIN
+![ADARSH HU](https://user-images.githubusercontent.com/114686600/209765681-e59639e6-7fdd-4aab-81fd-04ada2551aa0.jpeg)
+
 
 
 
