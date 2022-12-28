@@ -2,7 +2,7 @@
 # Weather-Website
 
                              PROJECT INFORMATION 
-this is a weather app created by using html ,css ,javascript,api .It Provides u accurate temperature of any city.
+This is a weather app created by using html ,css ,javascript,api .It Provides u accurate temperature of any city.
 using the api by weather ninjas api.
 taking the reference from code with harry while making this project.
 now u can put urr issues that how we can  make it more better.
@@ -16,8 +16,7 @@ and u can contribute in this project.
                                 PROJECT ADMIN
 ![ADARSH HU (2)](https://user-images.githubusercontent.com/114686600/209766314-fafd8d0c-4347-4cef-b18d-b49cd6e3ddbc.jpeg)
 
-I AM ADARSH GUPTA.I AM CURRENTLY LEARNING WEB DEVELOPMENT & DATA STRUCTURE ADN ALOGRITHIMS IN C++
-B TECH STUDENT FROM SGSITS INDORE.
+
 
 
 
