@@ -10,7 +10,8 @@ and u can contribute in this project.
 
 
                               PROJECT ADMIN
-              (https://user-images.githubusercontent.com/114686600/209765018-97d4b29b-8070-46bd-b6fe-da9763c10ada.jpeg)
+             ![linkedin](https://user-images.githubusercontent.com/114686600/209765273-460e256f-8483-4264-923c-26d0795877a4.jpeg)
+
 
 
 
